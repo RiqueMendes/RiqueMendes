@@ -17,4 +17,3 @@
 
   ##
   
-  ![Snake animation](https://github.com/riquemendes/rafaballerini/blob/output/github-contribution-grid-snake.svg)
