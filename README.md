@@ -1,6 +1,6 @@
 ## Hey, i'm Henrique! 
 
- 👨‍🎓 I'm studying ☕ at Generation Brasil. </br>
+ 👨‍🎓 I'm currently studying ☕ </br>
  📫 How to reach me: riquesmendes@gmail.com  
  🚩 São Paulo - SP, BR.  
  
