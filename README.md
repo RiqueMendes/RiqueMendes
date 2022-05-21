@@ -1,6 +1,7 @@
-## Hey, i'm Henrique! 
+## Hey, i'm Henrique an Java Developer that always are building something!
+I started to studying development for curiosity, when I see I was changing my career as Bank Officer to Developer. I'm passionate about technology and innovation, on my github you can follow my projects. When I'm not working <s>with development</s>, I'm developing for fun.
 
- 👨‍🎓 I'm currently studying ☕ </br>
+
  📫 How to reach me: riquesmendes@gmail.com  
  🚩 São Paulo - SP, BR.  
  
