@@ -1,5 +1,5 @@
-## Hey, i'm Henrique an Java Developer that always are building something!
-I started to studying development for curiosity, when I see I was changing my career as Bank Officer to Development. I'm passionate about technology and innovation, on my github you can follow my projects. When I'm not working <s>I'm developing for fun</s> I'm riding my bicycle around amazing places.
+## Hey, welcome, i'm Henrique an Developer that always are building something!
+I am an amateur cyclist who loves innovation and technology. Started to studying development for curiosity, when I see I was changing my career as Bank Officer to Development. When I'm not working I'm <s>developing for fun</s> studying  or  riding my bicycle around amazing places. 
 
   
  📫 Send me an <a href="mailto:riquesmendes@gmail.com">E-mail</a>  &emsp; 🚩São Paulo - SP, BR.  
