@@ -2,10 +2,14 @@
 I started to studying development for curiosity, when I see I was changing my career as Bank Officer to Development. I'm passionate about technology and innovation, on my github you can follow my projects. When I'm not working <s>(with development)</s>, I'm developing for fun or riding my bicicle around amazing places.
 
 
- 📫 How to reach me: riquesmendes@gmail.com  
+ 📫 Send me an E-mail <a href="mailto:riquesmendes@gmail.com">click</a>
+ 
  🚩 São Paulo - SP, BR.  
  
   <a href="https://www.linkedin.com/in/henrique-mendes-610b521aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   <img align='right' src="https://giffiles.alphacoders.com/133/13350.gif" width="150" height="140">
+  
   
   ##
  
@@ -43,3 +47,6 @@ I started to studying development for curiosity, when I see I was changing my ca
   </td></tr></table>  
   
 ----
+
+ 
+
