@@ -9,7 +9,7 @@ I am an amateur cyclist who loves innovation and technology. Started studying de
 
   
  <a href="https://www.linkedin.com/in/henrique-mendes-610b521aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-   <img align='left' src="https://giffiles.alphacoders.com/133/13350.gif" width="150" height="140">
+   
 
   
   
