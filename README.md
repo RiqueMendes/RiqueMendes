@@ -1,4 +1,4 @@
-## Hey, welcome. I'm Henrique, an Developer that always are building something!
+## Hello and welcome! I'm Henrique, a developer who's constantly working on new projects!
 I am an amateur cyclist who loves innovation and technology. Started studying development for curiosity, when I see I was changing my career as Bank Officer to Developer. When I'm not working I'm <s>developing for fun</s> studying  or  riding my bicycle around amazing places. Let's change the world together?
 
   
